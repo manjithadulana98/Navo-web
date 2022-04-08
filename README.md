@@ -2,7 +2,7 @@
 
 Install python flask (Better to have a virual environment)
 
-open cmd 
+open cmd  in the folder including app.py
 
 ```
 python app.py
